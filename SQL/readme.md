@@ -9,10 +9,17 @@ This repository includes a collection of SQL Server projects that I have develop
 
 ## Projects
 
-### LUXTOYS
+### LUXTOYS - WIP
 
-**Description:** This project includes SQL scripts and database to practice data analysis. It covers various aspects such as Customer Analysis, Store Analysis, Products Analysis, Transaction Analysis, and (Simple) Supply Chain Analysis.
+**Description:** This project includes SQL scripts and a database to practice data analysis of my dream of owning an Action Figure Store. It covers various aspects such as Customer Analysis, Store Analysis, Products Analysis, Transaction Analysis, and (Simple) Supply Chain Analysis.
 
 **Files:**
 - `Store_Analysis.sql`: Script for Store Analysis
 - `backup.db`
+
+### BIKE STORE - WIP
+
+**Description:** This project is in the early stages, still ongoing work! I will continue in my free time.
+
+**Files:**
+- TBA

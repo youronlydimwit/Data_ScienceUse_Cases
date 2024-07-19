@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def data_desc_graph(df):
     try:
         # Check if necessary libraries are already imported
@@ -48,10 +42,3 @@ def data_desc_graph(df):
     plt.show()
     
     return "Dependencies Satisfied"
-
-
-# In[ ]:
-
-
-
-

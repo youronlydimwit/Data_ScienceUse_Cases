@@ -35,15 +35,22 @@ Hi Everyone! My name is Sang Putu, and I am a Data Science Enthusiast. I work as
 
 ### SQL
 
-**Description:** This directory attempts to use SQL for making a database system and data querying with examples of DDL and DML. The databases are dummy data built by myself, free to reproduce.
+**Description:** This directory attempts to use SQL for making a database system and data querying with examples of DDL and DML. Most of the databases are dummy data built by myself, free to reproduce.
 
-#### Predictions Projects
-
-### VBA
-
-**Description:** -
+#### [SQL Projects](github.com/youronlydimwit/Data_ScienceUse_Cases/SQL)
+- Bike Store - WIP
+- Luxtoys - WIP
 
 ### Scripts
 
-**Description:** -
+**Description:** This directory's usage is to act like a cloud for my python scripts to be loaded as modules, mostly for visualizations and/or dataframe processing.
+
+### VBA
+
+**Description:** With experience in using Microsoft Excel, some tasks are becoming tedious, and I have uploaded some VBA scripts to be loaded as Macros in your own devices.
+
+#### VBA Projects
+- Text Similarity
+
+
 

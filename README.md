@@ -23,7 +23,7 @@ Hi Everyone! My name is Sang Putu, and I am a Data Science Enthusiast. I work as
 **Description:** This directory focuses on clustering tasks with various datasets. In the future, it might be moved to the Predictions directory.
 
 #### Clustering Projects
-- TBA
+- [Mall Customers](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/Clustering/Mall_Customers_KNN.ipynb)
 
 ### Predictions
 

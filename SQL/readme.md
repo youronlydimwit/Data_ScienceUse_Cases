@@ -14,8 +14,10 @@ This repository includes a collection of SQL Server projects that I have develop
 **Description:** This project includes SQL scripts and a database to practice data analysis of my dream of owning an Action Figure Store. It covers various aspects such as Customer Analysis, Store Analysis, Products Analysis, Transaction Analysis, and (Simple) Supply Chain Analysis.
 
 **Files:**
-- `Store_Analysis.sql`: Script for Store Analysis
-- `backup.db`
+- [`Table Creation - Luxtoys.sql`](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/SQL/Luxtoys/Table%20Creation%20-%20Luxtoys.sql): Query to create the Tables
+- [`Data Insertion - Luxtoys.sql`](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/SQL/Luxtoys/Data%20Insertion%20-%20Luxtoys.sql): Query to insert data into the tables
+- [`Customer Analysis - Luxtoys.sql`](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/SQL/Luxtoys/Customer%20Analysis%20-%20Luxtoys.sql): Query for Customer-oriented Analysis
+- [`Transaction Analysis - Luxtoys.sql`](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/SQL/Luxtoys/Transaction%20Analysis%20-%20Luxtoys.sql): Query for Transaction-oriented Analysis
 
 ### BIKE STORE - WIP
 

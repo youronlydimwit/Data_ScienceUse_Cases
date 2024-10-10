@@ -13,10 +13,10 @@ Hi Everyone! My name is Sang Putu, and I am a Data Science Enthusiast. I work as
 **Description:** This directory focuses on classification tasks with several datasets. In the future, it might be moved to the Predictions directory.
 
 #### Classification Projects
-- [Breast Cancer](https://github.com/youronlydimwit/Data_ScienceUse_Cases/Classification/Breast_Cancer_Wisconsin.ipynb)
-- [Gender Prediction](https://github.com/youronlydimwit/Data_ScienceUse_Cases/Classification/Gender_Prediction.ipynb)
-- [HRD Survey](https://github.com/youronlydimwit/Data_ScienceUse_Cases/Classification/HRD_Survey.ipynb)
-- [Mushrooms Classification](https://github.com/youronlydimwit/Data_ScienceUse_Cases/Classification/Mushrooms_Classification.ipynb)
+- [Breast Cancer](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/Classification/Breast_Cancer_Wisconsin.ipynb)
+- [Gender Prediction](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/Classification/Gender_Prediction.ipynb)
+- [HRD Survey](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/Classification/HRD_Survey.ipynb)
+- [Mushrooms Classification](https://github.com/youronlydimwit/Data_ScienceUse_Cases/blob/main/Classification/Mushrooms_Classification.ipynb)
 
 ### Clustering
 

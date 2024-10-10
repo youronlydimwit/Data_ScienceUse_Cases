@@ -37,7 +37,7 @@ Hi Everyone! My name is Sang Putu, and I am a Data Science Enthusiast. I work as
 
 **Description:** This directory focuses on using SQL to create database systems and perform data querying, with examples of DDL and DML. Most databases are dummy data created by myself and are free to reproduce.
 
-#### [SQL Projects](https://github.com/youronlydimwit/Data_ScienceUse_Cases/tree/main/SQL)
+#### SQL Projects
 - Bike Store - WIP
 - [Luxtoys - WIP](https://github.com/youronlydimwit/Data_ScienceUse_Cases/tree/main/SQL/Luxtoys)
 
